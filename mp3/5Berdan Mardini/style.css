@@ -30,7 +30,7 @@ body .card .current-song {
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 60%;
+  width: 70%;
   padding: 20px 0px;
   border-radius: 20px;
   color: #071739;
@@ -63,7 +63,7 @@ body .card .current-song .time {
   display: flex;
   justify-content: space-between;
   margin-top: 10px;
-  width: 240px;
+  width: 220px;
 }
 body .card .current-song #timeline {
   position: relative;
