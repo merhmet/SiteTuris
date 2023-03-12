@@ -3,43 +3,43 @@ var songsToAdd = [
     "name": "Terrain",
     "artist": "pg.lost",
     "album": "Key",
-    "url": "https://521dimensions.com/songs/Terrain-pglost.mp3",
-    "cover_art_url": "https://521dimensions.com/img/open-source/amplitudejs/album-art/key.jpg"
+    "url": "https://cdn.muzikmp3indir.com/mp3_files/37f4a8a6d51c9dc2984000387fbb0c36.mp3",
+    "cover_art_url": "https://muzikmp3indir.com/compressed/2a73c8703a17d6749f7a49dac253d03d.jpg"
   },
   {
     "name": "Vorel",
     "artist": "Russian Circles",
     "album": "Guidance",
-    "url": "https://521dimensions.com/songs/Vorel-RussianCircles.mp3",
-    "cover_art_url": "https://521dimensions.com/img/open-source/amplitudejs/album-art/guidance.jpg"
+    "url": "https://cdn.muzikmp3indir.com/mp3_files/37f4a8a6d51c9dc2984000387fbb0c36.mp3",
+    "cover_art_url": "https://muzikmp3indir.com/compressed/2a73c8703a17d6749f7a49dac253d03d.jpg"
   },
   {
     "name": "Intro / Sweet Glory",
     "artist": "Jimkata",
     "album": "Die Digital",
-    "url": "https://521dimensions.com/songs/IntroSweetGlory-Jimkata.mp3",
-    "cover_art_url": "https://521dimensions.com/img/open-source/amplitudejs/album-art/die-digital.jpg"
+    "url": "https://cdn.muzikmp3indir.com/mp3_files/37f4a8a6d51c9dc2984000387fbb0c36.mp3",
+    "cover_art_url": "https://muzikmp3indir.com/compressed/2a73c8703a17d6749f7a49dac253d03d.jpg"
   },
   {
     "name": "Offcut #6",
     "artist": "Little People",
     "album": "We Are But Hunks of Wood Remixes",
-    "url": "https://521dimensions.com/songs/Offcut6-LittlePeople.mp3",
-    "cover_art_url": "https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-but-hunks-of-wood.jpg"
+    "url": "https://cdn.muzikmp3indir.com/mp3_files/37f4a8a6d51c9dc2984000387fbb0c36.mp3",
+    "cover_art_url": "https://muzikmp3indir.com/compressed/2a73c8703a17d6749f7a49dac253d03d.jpg"
   },
   {
     "name": "Dusk To Dawn",
     "artist": "Emancipator",
     "album": "Dusk To Dawn",
-    "url": "https://521dimensions.com/songs/DuskToDawn-Emancipator.mp3",
-    "cover_art_url": "https://521dimensions.com/img/open-source/amplitudejs/album-art/from-dusk-to-dawn.jpg"
+    "url": "https://cdn.muzikmp3indir.com/mp3_files/37f4a8a6d51c9dc2984000387fbb0c36.mp3",
+    "cover_art_url": "https://muzikmp3indir.com/compressed/2a73c8703a17d6749f7a49dac253d03d.jpg"
   },
   {
     "name": "Anthem",
     "artist": "Emancipator",
     "album": "Soon It Will Be Cold Enough",
-    "url": "https://521dimensions.com/songs/Anthem-Emancipator.mp3",
-    "cover_art_url": "https://521dimensions.com/img/open-source/amplitudejs/album-art/soon-it-will-be-cold-enough.jpg"
+    "url": "https://cdn.muzikmp3indir.com/mp3_files/37f4a8a6d51c9dc2984000387fbb0c36.mp3",
+    "cover_art_url": "https://muzikmp3indir.com/compressed/2a73c8703a17d6749f7a49dac253d03d.jpg"
   }
 ];
 
@@ -49,50 +49,50 @@ Amplitude.init({
       "name": "Nightmare Side - 2016.09.08",
       "artist": "Ardan Radio Bandung",
       "album": "MPTri.my.iD",
-      "url": "https://archive.org/download/nightmareside/2016.09.08.mp3",
-      "cover_art_url": "http://pictures.my.id/images/Nightmare-Side.jpg"
+      "url": "https://cdn.muzikmp3indir.com/mp3_files/37f4a8a6d51c9dc2984000387fbb0c36.mp3",
+      "cover_art_url": "https://muzikmp3indir.com/compressed/2a73c8703a17d6749f7a49dac253d03d.jpg"
     },
     {
       "name": "Adek Jilbab Biru (ft. Wandra)",
       "artist": "Jihan Audy",
       "album": "MPTri.my.iD",
-      "url": "http://abd.filmbluray.id/c10b0a5",
-      "cover_art_url": "https://photos.my.id/images/ejeC.png"
+      "url": "https://cdn.muzikmp3indir.com/mp3_files/37f4a8a6d51c9dc2984000387fbb0c36.mp3",
+      "cover_art_url": "https://muzikmp3indir.com/compressed/2a73c8703a17d6749f7a49dac253d03d.jpg"
     },
     {
       "name": "The Gun",
       "artist": "Lorn",
       "album": "Ask The Dust",
-      "url": "https://521dimensions.com/songs/08 The Gun.mp3",
-      "cover_art_url": "https://521dimensions.com/img/open-source/amplitudejs/album-art/ask-the-dust.jpg"
+      "url": "https://cdn.muzikmp3indir.com/mp3_files/37f4a8a6d51c9dc2984000387fbb0c36.mp3",
+      "cover_art_url": "https://muzikmp3indir.com/compressed/2a73c8703a17d6749f7a49dac253d03d.jpg"
     },
     {
       "name": "Anvil",
       "artist": "Lorn",
       "album": "Anvil",
-      "url": "https://521dimensions.com/songs/LORN - ANVIL.mp3",
-      "cover_art_url": "https://521dimensions.com/img/open-source/amplitudejs/album-art/anvil.jpg"
+      "url": "https://cdn.muzikmp3indir.com/mp3_files/37f4a8a6d51c9dc2984000387fbb0c36.mp3",
+      "cover_art_url": "https://muzikmp3indir.com/compressed/2a73c8703a17d6749f7a49dac253d03d.jpg"
     },
     {
       "name": "I Came Running",
       "artist": "Ancient Astronauts",
       "album": "We Are to Answer",
-      "url": "https://521dimensions.com/songs/ICameRunning-AncientAstronauts.mp3",
-      "cover_art_url": "https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg"
+      "url": "https://cdn.muzikmp3indir.com/mp3_files/37f4a8a6d51c9dc2984000387fbb0c36.mp3",
+      "cover_art_url": "https://muzikmp3indir.com/compressed/2a73c8703a17d6749f7a49dac253d03d.jpg"
     },
     {
       "name": "First Snow",
       "artist": "Emancipator",
       "album": "Soon It Will Be Cold Enough",
-      "url": "http://abd.filmbluray.id/n160908",
-      "cover_art_url": "http://pictures.my.id/images/Nightmare-Side.jpg"
+      "url": "https://cdn.muzikmp3indir.com/mp3_files/37f4a8a6d51c9dc2984000387fbb0c36.mp3",
+      "cover_art_url": "https://muzikmp3indir.com/compressed/2a73c8703a17d6749f7a49dac253d03d.jpg"
     },
     {
       "name": "First Snow",
       "artist": "Emancipator",
       "album": "Soon It Will Be Cold Enough",
-      "url": "https://521dimensions.com/songs/FirstSnow-Emancipator.mp3",
-      "cover_art_url": "https://521dimensions.com/img/open-source/amplitudejs/album-art/soon-it-will-be-cold-enough.jpg"
+      "url": "https://cdn.muzikmp3indir.com/mp3_files/37f4a8a6d51c9dc2984000387fbb0c36.mp3",
+      "cover_art_url": "https://muzikmp3indir.com/compressed/2a73c8703a17d6749f7a49dac253d03d.jpg"
     }
   ]
 });
