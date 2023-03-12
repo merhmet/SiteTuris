@@ -5,7 +5,7 @@
 }
  html {
 	 box-sizing: border-box;
-	 font-size: 62.5%;
+	 font-size: 50%;
 	 font-family: "Inter", sans-serif;
 }
  body {
@@ -15,8 +15,8 @@
 }
  .player {
 	 position: relative;
-	 max-width: 480px;
-	 width: calc(68%);
+	 max-width: 300px;
+	 width: calc(30%);
 }
  .player .icon-pause {
 	 display: none;
@@ -32,7 +32,7 @@
 	 padding: 2rem 2rem 1.6rem;
 	 position: fixed;
 	 top: 0;
-	 max-width: 480px;
+	 max-width: 300px;
 	 width: 100%;
 	 border-radius: 0.2rem;
 	 border-bottom: 1px solid #ebebeb;
@@ -42,19 +42,19 @@
 	 margin-bottom: 1rem;
 }
  .player .dashboard .status {
-	 font-size: 1.2rem;
+	 font-size: 1.0rem;
 	 color: #ec1f55;
 }
  .player .dashboard .song_name {
-	 font-size: 2rem;
+	 font-size: 1rem;
 	 color: #333;
-	 line-height: 4rem;
+	 line-height: 2rem;
 	 text-transform: capitalize;
 }
  .player .dashboard .cd {
 	 display: flex;
 	 margin: auto;
-   max-width: 200px;
+   max-width: 150px;
 }
  .player .dashboard .cd_thumb {
 	 width: 100%;
@@ -71,8 +71,8 @@
 }
  .player .dashboard .control .btn {
 	 color: #666;
-	 padding: 2rem;
-	 font-size: 1.8rem;
+	 padding: 1rem;
+	 font-size: 1.2rem;
 }
  .player .dashboard .control .btn.active {
 	 color: #ec1f55;
@@ -81,7 +81,7 @@
 	 width: 56px;
 	 height: 56px;
 	 border-radius: 50%;
-	 font-size: 2.4rem;
+	 font-size: 1.4rem;
 	 color: #fff;
 	 display: flex;
 	 align-items: center;
@@ -101,14 +101,14 @@
  .player .dashboard .progress::-webkit-slider-thumb {
 	 -webkit-appearance: none;
 	 appearance: none;
-	 width: 16px;
-	 height: 16px;
+	 width: 10px;
+	 height: 10px;
 	 border-radius: 50%;
 	 background-color: #ec1f55;
 	 cursor: pointer;
 }
  .player .playlist {
-	 margin-top: 408px;
+	 margin-top: 330px;
 	 padding: 1.2rem;
 }
  .player .playlist .song {
@@ -116,8 +116,8 @@
 	 align-items: center;
 	 margin-bottom: 1.2rem;
 	 background-color: #fff;
-	 padding: 0.8rem 1.6rem;
-	 border-radius: 5px;
+	 padding: 0.4rem 0.7rem;
+	 border-radius: 2px;
 	 cursor: pointer;
 	 box-shadow: 0 2px 3px rgba(0,0,0,0.1);
 }
@@ -128,9 +128,9 @@
 	 color: #fff;
 }
  .player .playlist .song .thumb {
-	 width: 44px;
-	 height: 44px;
-	 border-radius: 50%;
+	 width: 30px;
+	 height: 30px;
+	 border-radius: 30%;
 	 background-size: cover;
 	 margin: 0 8px;
 }
@@ -139,9 +139,9 @@
 	 padding: 0 1.6rem;
 }
  .player .playlist .song .title {
-	 font-size: 1.6rem;
+	 font-size: 1.1rem;
 	 text-transform: capitalize;
-	 line-height: 2.5rem;
+	 line-height: 1.0rem;
 	 color: #333;
 }
  .player .playlist .song .author {
@@ -150,7 +150,7 @@
 	 color: #999;
 }
  .player .playlist .song .option {
-	 padding: 16px 8px;
+	 padding: 8px 8px;
 	 color: #999;
 	 font-size: 18px;
 }
