@@ -29,11 +29,11 @@ YT player help docs = https://developers.google.com/youtube/iframe_api_reference
 
     
 
-        <p><em> https://www.youtube.com/watch?v=Ocxaq22cOQo&<span style=color:yellow;background-color:grey;>list=</span>PLo16_DLriHp4Snkp2pMfHff00f7ZtuejG</em></p>
+        <p><em> YouTube'dan Playlist olarak Bura <span style=color:yellow;background-color:grey;>URL'lerininizi=</span>Yapıştırın </em></p>
       </div>
       <div>
-        <input id="UserUrl" type="text" placeholder=" Paste full YouTube Url here! ">
-        <button class="but2" id="btn1" onclick="userList()">Load PlayList</button>
+        <input id="UserUrl" type="text" placeholder=" Bura Playlistinizi Yapistirin! ">
+        <button class="but2" id="btn1" onclick="userList()">Ara Playlist</button>
       </div>
       <br>
       <div id="mess-box" style="word-wrap:break-word; color:orange;">
@@ -46,11 +46,11 @@ YT player help docs = https://developers.google.com/youtube/iframe_api_reference
 
     <div>
       <!-- mobile player controls you could add eventlistener in JS but decided to keep simple simple  -->
-      <button onclick="shuff_list()">Shuffle</button>
-      <button onclick="player.previousVideo()">Back</button>
+      <button onclick="shuff_list()">Karisik</button>
+      <button onclick="player.previousVideo()">Geri</button>
       <button onclick="player.playVideo()">Play</button>
       <button onclick="player.pauseVideo()">Pause ||</button>
-      <button onclick="player.nextVideo()">Next </button>
+      <button onclick="player.nextVideo()">Ileri</button>
     </div>
     <!-- the following two divs styles makes YTplayers responsive either div or iframe you can define style in css file
 		<div id="YTP" style="width: 100%; height: 0; position: relative; padding-bottom: 56.25%; ">
