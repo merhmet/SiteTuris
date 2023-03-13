@@ -62,18 +62,11 @@ img: 'https://muzikmp3indir.com/compressed/83600769ff2d0fa1a11df21b6563baa9.png'
  audio: 'https://www.bensound.com//bensound-music/bensound-sunny.mp3', 
 duration: '2:20' },
 
-
-
-
-
-
-
-
-
-      { name: 'Corporate motivational', author: 'Berdan Mardini', 
+      { name: 'Berdan Mardini 1', author: 'Berdan Mardini', 
 img: 'https://muzikmp3indir.com/compressed/83600769ff2d0fa1a11df21b6563baa9.png', 
 audio: 'https://www.bensound.com/bensound-music/bensound-energy.mp3', duration: '2:59' },
-      { name: 'Slow cinematic', author: 'Berdan Mardini', 
+     
+      { name: 'Berdan Mardini1', author: 'Berdan Mardini', 
 img: 'https://muzikmp3indir.com/compressed/83600769ff2d0fa1a11df21b6563baa9.png', 
 audio: 'https://www.bensound.com/bensound-music/bensound-slowmotion.mp3', duration: '3:26' }],
       pause: false });_defineProperty(this, "changeCurrentTime",
