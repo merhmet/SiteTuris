@@ -4,8 +4,8 @@ document.head.appendChild(tag);
 var player;
 function onYouTubeIframeAPIReady() {
  player = new YT.Player("yt-player", {
-  height: "390",
-  width: "640",
+  height: "250",
+  width: "250",
   videoId: "jt74rQymY0I",
   events: {}
  });
