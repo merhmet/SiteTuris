@@ -20,7 +20,7 @@ function userList() {
   const getid = str.split("list="); //splits url string into parts
   var ytlist = getid[1].split("&");
   Plist = ytlist[0];
-  message.innerHTML = " Playlist id Now Playing : " + Plist; // optional visual display
+  message.innerHTML = " Playlistiniz Hazir  : " + Plist; // optional visual display
   player.stopVideo(); //stops current video if playing
   onPlayerReady(); // youtube player event to load user list
 }
