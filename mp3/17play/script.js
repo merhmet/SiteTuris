@@ -13,7 +13,7 @@ function userList() {
   let str = userlink.value;
   if (str.includes("list=") == false) {
     message.innerHTML =
-      "  Please Paste the full YouTube playlist URL, must be containing 'list=' ";
+      "  Lütfen Playlist olarak Yapistirin  URL,  'list=' ";
     return;
   }
 
