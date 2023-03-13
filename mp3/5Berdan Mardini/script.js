@@ -4,60 +4,60 @@ class CardProfile extends React.Component {constructor(...args) {super(...args);
       index: 3,
       currentTime: '0:00',
       musicList: 
-[{ name: 'Nice piano and ukulele', author: 'Berdan Mardini',
+[{ name: 'Berdan Mardini1', author: 'Berdan Mardini',
  img: 'https://muzikmp3indir.com/compressed/83600769ff2d0fa1a11df21b6563baa9.png',
- audio: 'https://www.bensound.com/bensound-music/bensound-buddy.mp3', 
+ audio: 'https://cdn.muzikmp3indir.com/mp3_files/27d02271da1164e3f093b61f8da09515.mp3', 
 duration: '2:02' },
-      { name: 'Gentle acoustic', author: 'Berdan Mardini', 
+      { name: 'Berdan Mardini1', author: 'Berdan Mardini', 
 img: 'https://muzikmp3indir.com/compressed/83600769ff2d0fa1a11df21b6563baa9.png',
- audio: 'https://www.bensound.com//bensound-music/bensound-sunny.mp3', 
+ audio: 'https://cdn.muzikmp3indir.com/mp3_files/27d02271da1164e3f093b61f8da09515.mp3', 
 duration: '' },
 
 
 
-     { name: 'Gentle acoustic', author: 'Berdan Mardini', 
+     { name: 'Berdan Mardini1', author: 'Berdan Mardini', 
 img: 'https://muzikmp3indir.com/compressed/83600769ff2d0fa1a11df21b6563baa9.png',
- audio: 'https://www.bensound.com//bensound-music/bensound-sunny.mp3', 
+ audio: 'https://cdn.muzikmp3indir.com/mp3_files/27d02271da1164e3f093b61f8da09515.mp3', 
 duration: '' },
 
 
-     { name: 'Gentle acoustic', author: 'Berdan Mardini', 
+     { name: 'Berdan Mardini1', author: 'Berdan Mardini', 
+img: 'https://muzikmp3indir.com/compressed/83600769ff2d0fa1a11df21b6563baa9.png',
+ audio: 'https://cdn.muzikmp3indir.com/mp3_files/27d02271da1164e3f093b61f8da09515.mp3', 
+duration: '2:20' },
+
+
+     { name: 'Berdan Mardini1', author: 'Berdan Mardini', 
+img: 'https://muzikmp3indir.com/compressed/83600769ff2d0fa1a11df21b6563baa9.png',
+ audio: 'https://cdn.muzikmp3indir.com/mp3_files/27d02271da1164e3f093b61f8da09515.mp3', 
+duration: '2:20' },
+
+
+     { name: 'Berdan Mardini1', author: 'Berdan Mardini', 
+img: 'https://muzikmp3indir.com/compressed/83600769ff2d0fa1a11df21b6563baa9.png',
+ audio: 'https://cdn.muzikmp3indir.com/mp3_files/27d02271da1164e3f093b61f8da09515.mp3', 
+duration: '2:20' },
+
+
+     { name: 'Berdan Mardini1', author: 'Berdan Mardini', 
+img: 'https://muzikmp3indir.com/compressed/83600769ff2d0fa1a11df21b6563baa9.png',
+ audio: 'https://cdn.muzikmp3indir.com/mp3_files/27d02271da1164e3f093b61f8da09515.mp3', 
+duration: '2:20' },
+
+
+     { name: 'Berdan Mardini1', author: 'Berdan Mardini', 
 img: 'https://muzikmp3indir.com/compressed/83600769ff2d0fa1a11df21b6563baa9.png',
  audio: 'https://www.bensound.com//bensound-music/bensound-sunny.mp3', 
 duration: '2:20' },
 
 
-     { name: 'Gentle acoustic', author: 'Berdan Mardini', 
+     { name: 'Berdan Mardini1', author: 'Berdan Mardini', 
 img: 'https://muzikmp3indir.com/compressed/83600769ff2d0fa1a11df21b6563baa9.png',
  audio: 'https://www.bensound.com//bensound-music/bensound-sunny.mp3', 
 duration: '2:20' },
 
 
-     { name: 'Gentle acoustic', author: 'Berdan Mardini', 
-img: 'https://muzikmp3indir.com/compressed/83600769ff2d0fa1a11df21b6563baa9.png',
- audio: 'https://www.bensound.com//bensound-music/bensound-sunny.mp3', 
-duration: '2:20' },
-
-
-     { name: 'Gentle acoustic', author: 'Berdan Mardini', 
-img: 'https://muzikmp3indir.com/compressed/83600769ff2d0fa1a11df21b6563baa9.png',
- audio: 'https://www.bensound.com//bensound-music/bensound-sunny.mp3', 
-duration: '2:20' },
-
-
-     { name: 'Gentle acoustic', author: 'Berdan Mardini', 
-img: 'https://muzikmp3indir.com/compressed/83600769ff2d0fa1a11df21b6563baa9.png',
- audio: 'https://www.bensound.com//bensound-music/bensound-sunny.mp3', 
-duration: '2:20' },
-
-
-     { name: 'Gentle acoustic', author: 'Berdan Mardini', 
-img: 'https://muzikmp3indir.com/compressed/83600769ff2d0fa1a11df21b6563baa9.png',
- audio: 'https://www.bensound.com//bensound-music/bensound-sunny.mp3', 
-duration: '2:20' },
-
-
-     { name: 'Gentle acoustic', author: 'Berdan Mardini', 
+     { name: 'Berdan Mardini1', author: 'Berdan Mardini', 
 img: 'https://muzikmp3indir.com/compressed/83600769ff2d0fa1a11df21b6563baa9.png',
  audio: 'https://www.bensound.com//bensound-music/bensound-sunny.mp3', 
 duration: '2:20' },
