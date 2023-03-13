@@ -1,0 +1,10 @@
+.video-choice {
+ min-height: 150px;
+ background-color: red;
+ margin: 10px;
+ background-repeat: no-repeat;
+ position: relative;
+}
+.video-choice:hover {
+ cursor: pointer;
+}
