@@ -567,19 +567,19 @@ var iconImage = 'http://funkyimg.com/i/21pX5.png';
 
 AP.init({
   playList: [
-    {'icon': iconImage, 'title': 'Turis', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/1f67408b7f569bb2594b5ea1fcd5e942.mp3'},
+    {'icon': iconImage, 'title': 'Hayat Vefasız', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/cdec5915859da109570be39395d360ac.mp3'},
    
-    {'icon': iconImage, 'title': 'Mashup Halaylar', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/43db1cc813fde52e263b7fb0aa037df0.mp3'},
+    {'icon': iconImage, 'title': 'Gülemedim', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/220ad5421e1549cf8aa1cfa689545ab5.mp3'},
 
-    {'icon': iconImage, 'title': 'Mashup', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/29351675362fbc6db159d10d66c979af.mp3'},
+    {'icon': iconImage, 'title': 'Yaban Gülü', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/yaban-gulu-GEml0wxr7D-0.mp3'},
 
-    {'icon': iconImage, 'title': 'Mashup Bahar', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/696bae807bdb6690bfb46aceacd88a36.mp3'},
+    {'icon': iconImage, 'title': 'Naze', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/3b8c131976a3e6a4490bd5ac750f3859.mp3'},
 
-    {'icon': iconImage, 'title': 'Mashup Kadr Esraworld', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/9445a5f31a8dfbf4d2f9decd4146d327.mp3'},
+    {'icon': iconImage, 'title': 'Gönül Çalamazsan Aşkın Sazını', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/e0932b87b4a3ed4d47086f5a9a462d8d.mp3'},
 
-    {'icon': iconImage, 'title': 'Mashup Ayda', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/2a7058422f5f8828f3817cc806dcc8a0.mp3'},
+    {'icon': iconImage, 'title': 'Uzun Hava', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/uzun-hava-VMCwOoph0r-0.mp3'},
 
-    {'icon': iconImage, 'title': 'Mashup  Agit Aykut Ahsen Almaz', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/75090c4b587d5edf1ac66d431c9d3d55.mp3'}
+    {'icon': iconImage, 'title': 'Söylenmez', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/78711df132a4068b4f92349a5df5e9fe.mp3'}
 
    
 
