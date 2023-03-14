@@ -567,7 +567,7 @@ var iconImage = 'http://funkyimg.com/i/21pX5.png';
 
 AP.init({
   playList: [
-    {'icon': iconImage, 'title': 'Masal Akarsu Yazan Kalem Siyah', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/4b11832e689f391e16a9f4033c5e831c.mp3'},
+    {'icon': iconImage, 'title': 'Yazan Kalem Siyah', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/4b11832e689f391e16a9f4033c5e831c.mp3'},
    
     {'icon': iconImage, 'title': 'Yazan Kalem Siyah', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/4b11832e689f391e16a9f4033c5e831c.mp3'},
 
