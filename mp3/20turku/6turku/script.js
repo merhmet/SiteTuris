@@ -567,33 +567,35 @@ var iconImage = 'http://funkyimg.com/i/21pX5.png';
 
 AP.init({
   playList: [
-    {'icon': iconImage, 'title': 'Sallana Sallana', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/dcfd47d3cd0a34975157b5f1907e7d85.mp3'},
+    {'icon': iconImage, 'title': 'Gönül Derdi', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/035a77159b5227841be2ac89c66c2970.mp3'},
    
-    {'icon': iconImage, 'title': 'Çirkin', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/cc46fc83f8e81d4b4694e34c4944d6bd.mp3'},
+    {'icon': iconImage, 'title': 'Fadile', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/fadile-bLTUeklVF0-0.mp3'},
 
-    {'icon': iconImage, 'title': 'A Yar', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/ea49faed856c0c3288905ccd15364c63.mp3'},
+    {'icon': iconImage, 'title': 'İhtiyacım Var', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/c2777001e6e2ea24757c9ad7abf00328.mp3'},
 
-    {'icon': iconImage, 'title': 'Yetmedimi', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/307377d13cb146a3c709891858eaf7e2.mp3'},
- 
-    {'icon': iconImage, 'title': 'Kime Ne', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/a8c01318fe861ab4dd4edffe8ca662ec.mp3'},
+    {'icon': iconImage, 'title': 'Gitme', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/25fb8239f312559b5efcf93522cb225b.mp3'},
 
-    {'icon': iconImage, 'title': 'Abuzer Ağa', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/9f39c0799b0b4fae0d8007f4b7e33ac3.mp3'},
+    {'icon': iconImage, 'title': 'Bayram Ne Zamandır', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/90ae4968205fd47b0ae032eb99b632e6.mp3'},
 
-    {'icon': iconImage, 'title': 'Baba', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/ee14b13c61523721f3c8b655c65011a6.mp3'},
+    {'icon': iconImage, 'title': 'Al Eyvanda Han Kalma', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/e7d5bcc1d243ea314ec75bb4615dbfb1.mp3'},
 
-    {'icon': iconImage, 'title': 'Van a Gel', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/7362c85dcc674740e0f45909c951c559.mp3'},
+    {'icon': iconImage, 'title': 'Bahtı Karalım', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/be14ea45da29d5f1e51edde819004530.mp3'},
 
-    {'icon': iconImage, 'title': 'Di Yarim', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/5c2bd69b3f19aac6502cb91e65d1a54d.mp3'},
+    {'icon': iconImage, 'title': 'Bilesin Gönlümün Ahı Var Sende', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/3108d1c8dac772e34e5c7c96d64e4f0a.mp3'},
 
-    {'icon': iconImage, 'title': 'Zannetme ki Unutamam', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/76ffed05b385c2ffb414f364b4a1bddc.mp3'},
+    {'icon': iconImage, 'title': 'Bir Ben Gülmedim', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/003206bff49a9a8ff11be587bd4f093e.mp3'},
 
-    {'icon': iconImage, 'title': 'Gidelim Şıh Bağına Gazele', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/d4eeb039c5799696bb67c9974a20cc5b.mp3'},
+    {'icon': iconImage, 'title': 'Dağlar Dağımdır Benim', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/7d9a403aafbf811cb6354468da9f309a.mp3'},
 
-    {'icon': iconImage, 'title': 'Bahçanıza Bir Taş Attım', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/40eb9cc111348df20c774a854a4dd49b.mp3'},
+    {'icon': iconImage, 'title': 'Gel Barışak', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/d388fb354634cae1f8fa71afb97e14c7.mp3'},
 
-    {'icon': iconImage, 'title': 'İki Kurşun', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/863eef0338f77824ef807cd48773dfe8.mp3'},
+    {'icon': iconImage, 'title': 'Nuru mu Geldi', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/cadb31383b1a7e68c8e0fb220513dd36.mp3'},
 
-    {'icon': iconImage, 'title': 'Sebebim Sen', 'file': 'ttps://cdn.muzikmp3indir.com/mp3_files/c45f776899c45fed0911f8ed58589267.mp3'}
+    {'icon': iconImage, 'title': 'Oğul', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/99e05adeba99e528c5c653f296dc1425.mp3'},
+
+    {'icon': iconImage, 'title': 'Sevmeyi Öğretemedim', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/983a4531360bd88c304939f4b8d30b52.mp3'},
+
+    {'icon': iconImage, 'title': 'Yar Meleke', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/ecdc627a4850a1f3ae736ab9c8692433.mp3'}
 
    
 
