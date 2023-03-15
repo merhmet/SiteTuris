@@ -1,7 +1,5 @@
-*,
-*:before,
-*:after {
-  box-sizing: border-box;
+body {
+  background: black;
 }
 .hide {
   display: none !important;
@@ -13,61 +11,51 @@ button {
   outline: 0;
   background: transparent;
 }
+#stickplayer {
+  width: 100%;
+}
 /*------------------------
     Audio Player - AP
 ------------------------*/
 /* Player and control panel */
 .ap {
   position: fixed;
-  right: 0;
-  bottom: 0;
   left: 0;
+  bottom: 0;
+  width: 100%;
   height: 50px;
+  max-height: 100%;
   margin: auto;
   font-family: Arial, sans-serif;
   font-size: 14px;
-  -webkit-user-select: none;
-     -moz-user-select: none;
-      -ms-user-select: none;
-          user-select: none;
-  color: #333;
-  background: #f1f1f1;
-  border-top: 1px solid #ccc;
+  user-select: none;
+  color: #e78533;
+  background: rgba(255, 255, 255, 0.06);
+  opacity: 0.9;
+  border-top: 1px solid rgba(255, 255, 255, 0.19);
+
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
   z-index: 9999;
+  -webkit-transition: all 30s ease-in-out;
+  -moz-transition: all 30s ease-in-out;
+  -o-transition: all 30s ease-in-out;
+  transition: all 1s ease-in-out;
 }
 .ap-inner {
   max-width: 1440px;
   margin: 0 auto;
 }
 .ap-panel {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
 }
 .ap-item {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-flex: 1;
-  -webkit-flex: 1;
-      -ms-flex: 1;
-          flex: 1;
-  -webkit-box-pack: center;
-  -webkit-justify-content: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  -webkit-box-align: center;
-  -webkit-align-items: center;
-      -ms-flex-align: center;
-          align-items: center;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
 }
 .ap--track {
-  -webkit-box-flex: 1;
-  -webkit-flex: 1 40%;
-      -ms-flex: 1 40%;
-          flex: 1 40%;
+  flex: 1 40%;
   padding: 0 20px;
 }
 
@@ -75,9 +63,7 @@ button {
 .ap-info {
   width: 100%;
   position: relative;
-  -webkit-align-self: flex-start;
-      -ms-flex-item-align: start;
-          align-self: flex-start;
+  align-self: flex-start;
   padding: 5px 0 0;
 }
 .ap-title {
@@ -87,11 +73,30 @@ button {
   text-align: left;
   white-space: nowrap;
   text-overflow: ellipsis;
+  color: white;
+}
+.ap-title:hover {
+  position: relative;
+  overflow: hidden;
+  padding-right: 80px;
+  text-align: left;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  color: #f50;
+  font-weight: bold;
 }
 .ap-time {
   position: absolute;
   top: 5px;
   right: 0;
+  color: white;
+}
+.ap-time:hover {
+  position: absolute;
+  top: 5px;
+  right: 0;
+  color: #f50;
+  font-weight: bold;
 }
 .ap-progress-container {
   padding: 5px 0 10px;
@@ -101,7 +106,7 @@ button {
   position: relative;
   height: 3px;
   border-radius: 5px;
-  background: rgba(0,0,0,.2);
+  background: #eee;
 }
 .ap-preload-bar,
 .ap-bar {
@@ -111,7 +116,7 @@ button {
   bottom: 0;
   width: 0;
   border-radius: 5px 0 0 5px;
-  background: rgba(0,0,0,.3);
+  background: rgba(0, 0, 0, 0.3);
   z-index: 999;
 }
 .ap-bar {
@@ -125,12 +130,11 @@ button {
   width: 12px;
   height: 12px;
   margin-top: -4px;
-  content: '';
+  content: "";
   border-radius: 6px;
   background: #f50;
   opacity: 0;
-  -webkit-transition: opacity .3s ease;
-  transition: opacity .3s ease;
+  transition: opacity 0.3s ease;
 }
 .ap-progress-container:hover .ap-bar:after {
   opacity: 1;
@@ -143,8 +147,7 @@ button {
   display: block;
   height: 50px;
   cursor: pointer;
-  -webkit-transition: background .2s ease;
-  transition: background .2s ease;
+  transition: background 0.2s ease;
   text-align: center;
   color: #fff;
   border: 0;
@@ -152,20 +155,17 @@ button {
   background: none;
 }
 .ap-controls svg {
-  fill: #333;
+  fill: #eee;
 }
 .ap-controls:hover svg {
-  fill: #222;
+  fill: #f50;
 }
 .ap-controls:active {
-  background: rgba(0,0,0,.1);
+  background: rgba(0, 0, 0, 3);
 }
 .ap--playback > .ap-controls,
 .ap--settings > .ap-controls {
-  -webkit-box-flex: 0;
-  -webkit-flex: 0 25%;
-      -ms-flex: 0 25%;
-          flex: 0 25%;
+  flex: 0 25%;
 }
 .ap--pause,
 .playing > .ap--play {
@@ -184,11 +184,12 @@ button {
   overflow: hidden;
   width: 100%;
   height: 0;
+  cursor: pointer;
   visibility: hidden;
-  -webkit-transition: height .2s cubic-bezier(0.17, 0.72, 0.26, 1.23);
-  transition: height .2s cubic-bezier(0.17, 0.72, 0.26, 1.23);
-  background: #ddd;
-  border: 1px solid #ccc;
+  transition: height 0.9s cubic-bezier(0.17, 0.72, 0.26, 1.23);
+  background: rgba(255, 255, 255, 0.02);
+  opacity: 0.7;
+  border: 1px solid rgba(255, 255, 255, 0.02);
   border-bottom: 0;
   z-index: 9999;
 }
@@ -205,7 +206,7 @@ button {
   display: inline;
 }
 .ap-volume-container:hover {
-  background: #ddd;
+  background: #1e88e5;
 }
 .ap-volume-container:hover .ap-volume {
   height: 120px;
@@ -216,7 +217,7 @@ button {
   width: 4px;
   height: 100px;
   margin: 10px auto;
-  background: rgba(0,0,0,.2);
+  background: rgba(0, 0, 0, 0.2);
   position: relative;
   border-radius: 3px;
 }
@@ -231,70 +232,61 @@ button {
 }
 
 .ap-active {
-  background: rgba(0,0,0,.15);
+  background: rgba(0, 0, 0, 0.15);
   opacity: 1;
 }
 
-@-webkit-keyframes blink {
-  from { opacity: 0; }
-  50% { opacity: 1; }
-  to { opacity: 0; }
-}
-
 @keyframes blink {
-  from { opacity: 0; }
-  50% { opacity: 1; }
-  to { opacity: 0; }
+  from {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
 }
 .playing > .ap--pause {
-  -webkit-animation: blink 1.5s linear infinite;
-          animation: blink 1.5s linear infinite;
+  animation: blink 1.5s linear infinite;
 }
 /* --------------------------- */
 
-@media(max-width:880px) {
+@media (max-width: 880px) {
   .ap-item > .ap-controls {
-    -webkit-box-flex: 1;
-    -webkit-flex: 1;
-        -ms-flex: 1;
-            flex: 1;
+    flex: 1;
   }
 }
-@media(max-width:550px) {
+@media (max-width: 550px) {
   .ap {
     min-width: 250px;
   }
-  .ap, .ap-panel {
+  .ap,
+  .ap-panel {
     height: auto;
   }
   .ap-panel {
-    -webkit-flex-wrap: wrap;
-        -ms-flex-wrap: wrap;
-            flex-wrap: wrap;
+    flex-wrap: wrap;
   }
   .ap--track {
     margin-bottom: 10px;
     padding: 0 20px;
-    -webkit-box-ordinal-group: 2;
-    -webkit-order: 1;
-        -ms-flex-order: 1;
-            order: 1;
-    -webkit-box-flex: 1;
-    -webkit-flex: 1 1 100%;
-        -ms-flex: 1 1 100%;
-            flex: 1 1 100%;
+    order: 1;
+    flex: 1 1 100%;
   }
   .ap--playback,
   .ap--settings {
-    -webkit-box-flex: 1;
-    -webkit-flex: 1 1 50%;
-        -ms-flex: 1 1 50%;
-            flex: 1 1 50%;
-    -webkit-box-ordinal-group: 3;
-    -webkit-order: 2;
-        -ms-flex-order: 2;
-            order: 2;
+    flex: 1 1 50%;
+    order: 2;
   }
+}
+::-webkit-scrollbar {
+  width: 0px; /* Remove scrollbar space */
+  background: transparent; /* Optional: just make scrollbar invisible */
+}
+/* Optional: show position indicator in red */
+::-webkit-scrollbar-thumb {
+  background: #ff0000;
 }
 /*--------------------
   PlayList
@@ -306,33 +298,34 @@ button {
   bottom: 50px;
   left: 0;
   margin: auto;
-  overflow: auto;
+  overflow: show;
   font-family: Arial, sans-serif;
   font-size: 14px;
-  background: #f1f1f1;
+  background: #1c1c1a;
+  opacity: 4;
   z-index: 999;
 }
-.pl-lead {
+. .pl-lead {
   font-size: 24px;
   font-weight: 400;
   text-align: center;
-  color: #333;
+  color: white;
 }
 .pl-list {
   width: 100%;
-  max-width: 550px;
-  margin: 0 auto;
-  padding: 30px 10px;
+  height: 100%;
+  overflow: auto;
+  margin: auto;
+  position: absolute;
+  top: 5%;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  color: white;
 }
 .pl-list > li {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-align: center;
-  -webkit-align-items: center;
-      -ms-flex-align: center;
-          align-items: center;
+  align-items: center;
   border-bottom: 1px solid #ddd;
 }
 .pl-number,
@@ -342,14 +335,12 @@ button {
   padding: 10px 0;
 }
 .pl-number {
-  -webkit-box-flex: 0;
-  -webkit-flex: 0 10%;
-      -ms-flex: 0 10%;
-          flex: 0 10%;
+  flex: 0 10%;
   text-align: center;
 }
 .pl-playing {
   display: none;
+  fill: rgb(255, 250, 250);
 }
 .pl-current .pl-count {
   display: none;
@@ -367,33 +358,30 @@ button {
   text-align: left;
   white-space: nowrap;
   text-overflow: ellipsis;
-  -webkit-box-flex: 1;
-  -webkit-flex: 1;
-      -ms-flex: 1;
-          flex: 1;
+  flex: 1;
 }
 .pl-title:hover {
-  text-decoration: underline;
+  text-decoration: none;
+  font-weight: bold;
+  font-style: italic;
+  color: #f50;
 }
 .pl-remove {
   opacity: 0;
   margin-right: 0;
   cursor: pointer;
   text-align: center;
-  -webkit-box-flex: 0;
-  -webkit-flex: 0 50px;
-      -ms-flex: 0 50px;
-          flex: 0 50px;
+  flex: 0 50px;
 }
 .pl-remove:hover {
-  background: #ddd;
+  background: #f50;
 }
 .pl-list > li:hover .pl-remove {
   opacity: 1;
 }
 
 .pl-list svg {
-  fill: rgba(0,0,0, .7);
+  fill: rgb(255, 250, 250);
 }
 
 .pl-empty {
@@ -401,53 +389,40 @@ button {
   top: 50%;
   left: 50%;
   font-size: 2rem;
-  -webkit-transform: translate(-50%, -50%);
-          transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
   letter-spacing: 2px;
   color: #ccc;
 }
 
-@-webkit-keyframes eq {
-  0% { height: 3px; }
-  50% { height: 20px; }
-  100% { height: 3px; }
-}
-
 @keyframes eq {
-  0% { height: 3px; }
-  50% { height: 20px; }
-  100% { height: 3px; }
+  0% {
+    height: 3px;
+  }
+  50% {
+    height: 20px;
+  }
+  100% {
+    height: 3px;
+  }
 }
 .eq {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
   width: 20px;
   height: 20px;
   margin: 0 auto;
-  -webkit-box-pack: justify;
-  -webkit-justify-content: space-between;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
-  -webkit-box-align: end;
-  -webkit-align-items: flex-end;
-      -ms-flex-align: end;
-          align-items: flex-end;
+  justify-content: space-between;
+  align-items: flex-end;
 }
 .eq-bar {
   width: 4px;
-  background: rgba(0,0,0,.7);
+  background: rgb(255, 250, 250);
 }
 .eq-bar:nth-child(1) {
-  -webkit-animation: eq .8s ease-in-out infinite 0s;
-          animation: eq .8s ease-in-out infinite 0s;
+  animation: eq 0.8s ease-in-out infinite 0s;
 }
 .eq-bar:nth-child(2) {
-  -webkit-animation: eq .8s ease-in-out infinite .2s;
-          animation: eq .8s ease-in-out infinite .2s;
+  animation: eq 0.8s ease-in-out infinite 0.2s;
 }
 .eq-bar:nth-child(3) {
-  -webkit-animation: eq .8s ease-in-out infinite .4s;
-          animation: eq .8s ease-in-out infinite .4s;
+  animation: eq 0.8s ease-in-out infinite 0.4s;
 }
