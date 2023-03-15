@@ -567,25 +567,11 @@ var iconImage = 'http://funkyimg.com/i/21pX5.png';
 
 AP.init({
   playList: [
-    {'icon': iconImage, 'title': 'Sana Nasıl Yar Olayım', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/sana-nasil-yar-olayim-f5SluhJeaF-0.mp3'},
+    {'icon': iconImage, 'title': 'Sevmişim', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/3b7399b483bcaefbba0754b3b6f99bca.mp3'},
    
-    {'icon': iconImage, 'title': 'Nefesin Nefesime', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/nefesin-nefesime-yMt5NqzmDf-0.mp3'},
+    {'icon': iconImage, 'title': 'Yarime Bir Haber Salın', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/5b1a9c6b4cff0524d83283d8ec06a740.mp3'},
 
-    {'icon': iconImage, 'title': 'Geldi Geçti', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/geldi-gecti-ls8zFfj4dQ-0.mp3'},
-
-    {'icon': iconImage, 'title': 'Helkeler Kolunda Suya Gidiyor', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/helkeler-kolunda-suya-gidiyor-N4SdqEJuLm-0.mp3'},
-
-    {'icon': iconImage, 'title': 'Oy Anam', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/oy-anam-bNGLBqOY3j-0.mp3'},
-
-    {'icon': iconImage, 'title': 'Ay Buluta Girmiş', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/ay-buluta-girmis-8LVoDaAjYg-0.mp3'},
-
-    {'icon': iconImage, 'title': 'Ay Buluta Girmiş', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/ay-buluta-girmis-8LVoDaAjYg-0.mp3'},
-
-    {'icon': iconImage, 'title': 'Ağlamaya Doymayan Gözüm', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/aglamaya-doymayan-gozum-wHFhkA1o7I-0.mp3'},
-
-    {'icon': iconImage, 'title': 'Yaylalar Yaylalar', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/yaylalar-yaylalar-EcZQrtA3f6-0.mp3'},
-
-    {'icon': iconImage, 'title': 'Yaylalar Yaylalar (Remix)', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/yaylalar-yaylalar-remix-EDgFcjedYO-0.mp3'}
+    {'icon': iconImage, 'title': 'Biri Var Diyemedin mi', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/a437934ef7a8fff874d2fc9756265243.mp3'}
 
    
 
