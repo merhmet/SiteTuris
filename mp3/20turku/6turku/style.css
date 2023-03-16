@@ -414,7 +414,7 @@ button {
   align-items: flex-end;
 }
 .eq-bar {
-  width: 4px;
+  width: 8px;
   background: rgb(255, 250, 250);
 }
 .eq-bar:nth-child(1) {
