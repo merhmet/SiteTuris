@@ -567,19 +567,39 @@ var iconImage = 'http://funkyimg.com/i/21pX5.png';
 
 AP.init({
   playList: [
-    {'icon': iconImage, 'title': 'Hayat Vefasız', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/cdec5915859da109570be39395d360ac.mp3'},
-   
-    {'icon': iconImage, 'title': 'Gülemedim', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/220ad5421e1549cf8aa1cfa689545ab5.mp3'},
+    {'icon': iconImage, 'title': '♫ Dert Olur Bana ', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/e46e23dbf63c047f65b12236d66a9a49.mp3 '},
 
-    {'icon': iconImage, 'title': 'Yaban Gülü', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/yaban-gulu-GEml0wxr7D-0.mp3'},
+    {'icon': iconImage, 'title': '♫ Turnalar ', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/97f99ad0247e38ddfb6b5efac7a1d515.mp3 '},
 
-    {'icon': iconImage, 'title': 'Naze', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/3b8c131976a3e6a4490bd5ac750f3859.mp3'},
+    {'icon': iconImage, 'title': ' ♫ Benim Fındığım', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/226d24a50dea2041cd67bfc26b22a999.mp3 '},
 
-    {'icon': iconImage, 'title': 'Gönül Çalamazsan Aşkın Sazını', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/e0932b87b4a3ed4d47086f5a9a462d8d.mp3'},
+    {'icon': iconImage, 'title': ' ♫ Ömrüm', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/7f2ce0ada73a9ba337f4107a57fb84f2.mp3 '},
 
-    {'icon': iconImage, 'title': 'Uzun Hava', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/uzun-hava-VMCwOoph0r-0.mp3'},
+    {'icon': iconImage, 'title': '  ♫ Döndüm', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/2b8cc12e073cac1b0400ee487e5d5cb6.mp3'},
 
-    {'icon': iconImage, 'title': 'Söylenmez', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/78711df132a4068b4f92349a5df5e9fe.mp3'}
+    {'icon': iconImage, 'title': '♫ Yoksulluk ', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/774270694a6484723950fcd8a263e835.mp3 '},
+
+    {'icon': iconImage, 'title': ' ♫ Canan Gelmez', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/a71e80652ae0aadb0e88ccdf8ee876b3.mp3 '},
+
+    {'icon': iconImage, 'title': ' ♫ Elazığ Selvileri', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/6b24f141eb9e5137c233805c48973fb2.mp3 '},
+
+    {'icon': iconImage, 'title': '♫ Gönül Gel Gidelim ', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/94beea76dd268814aa59e36166644868.mp3 '},
+
+    {'icon': iconImage, 'title': '♫ Şehribanim ', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/2dba7cb19bde5806eba5399251002157.mp3 '},
+
+    {'icon': iconImage, 'title': ' ♫ İşte Geldim', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/730867e3f1e0721db7589723f57dee35.mp3 '},
+
+    {'icon': iconImage, 'title': ' ♫ Canım Canım ', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/ee9f4ad92086430def7e94bd96db7356.mp3'},
+
+    {'icon': iconImage, 'title': '♫ Şen Değil Bağım ', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/83dbc5fb8532a91bbc9f1f3853b5d746.mp3 '},
+
+    {'icon': iconImage, 'title': ' ♫ Gardiyan', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/3e839f476d63969e759111b7fd5333da.mp3 '},
+
+    {'icon': iconImage, 'title': '♫ Ela Gözlerini Sevdiğim ', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/274ccb7f5c943335631ac7420e6ae435.mp3 '},
+
+    {'icon': iconImage, 'title': ' ♫ Dersim Dört Dağ İçinde', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/b1d2891f873518640a777590c5bf4fe3.mp3 '},
+
+    {'icon': iconImage, 'title': '  ♫ Leylo', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/11dab33183c54da00b07485b308ad863.mp3'}
 
    
 

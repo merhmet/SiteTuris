@@ -567,19 +567,29 @@ var iconImage = 'http://funkyimg.com/i/21pX5.png';
 
 AP.init({
   playList: [
-    {'icon': iconImage, 'title': 'Hayat Vefasız', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/cdec5915859da109570be39395d360ac.mp3'},
-   
-    {'icon': iconImage, 'title': 'Gülemedim', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/220ad5421e1549cf8aa1cfa689545ab5.mp3'},
+    {'icon': iconImage, 'title': '  ♫ Yaralar Beni', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/1219ca0ec2ea34584e5dd297541df004.mp3 '},
 
-    {'icon': iconImage, 'title': 'Yaban Gülü', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/yaban-gulu-GEml0wxr7D-0.mp3'},
+    {'icon': iconImage, 'title': ' ♫ Seçilesice ', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/fbb25b435af708d29edf24e339c8b265.mp3 '},
 
-    {'icon': iconImage, 'title': 'Naze', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/3b8c131976a3e6a4490bd5ac750f3859.mp3'},
+    {'icon': iconImage, 'title': '  ♫ Sultanım', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/fed6ce9d783062c6fbb8489292c2369c.mp3 '},
 
-    {'icon': iconImage, 'title': 'Gönül Çalamazsan Aşkın Sazını', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/e0932b87b4a3ed4d47086f5a9a462d8d.mp3'},
+    {'icon': iconImage, 'title': ' ♫  Şu Yalan Dünyaya Geldim', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/e5b935a3292b9a14457b625ca6933819.mp3 '},
 
-    {'icon': iconImage, 'title': 'Uzun Hava', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/uzun-hava-VMCwOoph0r-0.mp3'},
+    {'icon': iconImage, 'title': ' ♫ Sakın Üzülme ', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/2eec5dbff0d8f3da40ea9e4851764e9c.mp3 '},
 
-    {'icon': iconImage, 'title': 'Söylenmez', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/78711df132a4068b4f92349a5df5e9fe.mp3'}
+    {'icon': iconImage, 'title': '  ♫ Gül Yanakların', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/adac98be486ed16402fc1755e6ec2a57.mp3 '},
+
+    {'icon': iconImage, 'title': '  ♫ Çekemez', 'file': ' https://cdn.muzikmp3indir.com/mp3_files/5cae30639241c55b1bca4f0bd9d0451a.mp3 '},
+
+    {'icon': iconImage, 'title': '  ♫ Makbuldür', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/6865bd17433f0e6b736630f3daa8e13b.mp3 '},
+
+    {'icon': iconImage, 'title': '  ♫ Vicdan Mahkemesi', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/b76adad09130c452e40eca246b43fa43.mp3 '},
+
+    {'icon': iconImage, 'title': '   ♫ Ne Çıkar', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/3bd4427c49ace4c0acabef67376dfb37.mp3'},
+
+    {'icon': iconImage, 'title': ' ♫ Sual Sorma ', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/fdf6305a2d96fc8e6a092dfde2c8a240.mp3 '},
+
+    {'icon': iconImage, 'title': '  ♫ Dost Yüzün Gösterdi', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/ad2b8e1638685278599160aaa77ea920.mp3 '}
 
    
 

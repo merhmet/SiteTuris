@@ -567,20 +567,38 @@ var iconImage = 'http://funkyimg.com/i/21pX5.png';
 
 AP.init({
   playList: [
-    {'icon': iconImage, 'title': 'Hayat Vefasız', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/cdec5915859da109570be39395d360ac.mp3'},
-   
-    {'icon': iconImage, 'title': 'Gülemedim', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/220ad5421e1549cf8aa1cfa689545ab5.mp3'},
 
-    {'icon': iconImage, 'title': 'Yaban Gülü', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/yaban-gulu-GEml0wxr7D-0.mp3'},
+        {'icon': iconImage, 'title': '♫ Ağlıyorum Gizlice ', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/81efa6e0a26968c6b25d0d8af915af2d.mp3 '},
 
-    {'icon': iconImage, 'title': 'Naze', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/3b8c131976a3e6a4490bd5ac750f3859.mp3'},
+        {'icon': iconImage, 'title': '♫ Aşk Şarabı ', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/ce6975dc15eaf8fb9bdc43f09c7f40f1.mp3 '},    
 
-    {'icon': iconImage, 'title': 'Gönül Çalamazsan Aşkın Sazını', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/e0932b87b4a3ed4d47086f5a9a462d8d.mp3'},
+        {'icon': iconImage, 'title': '  ♫ Belamısın', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/d03bd49da8ba8b8637a165337c923d73.mp3 '},   
 
-    {'icon': iconImage, 'title': 'Uzun Hava', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/uzun-hava-VMCwOoph0r-0.mp3'},
+        {'icon': iconImage, 'title': ' ♫ Çare mi Olacaksın', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/1c0c8566060a47f00c2538454d3fdc4a.mp3  '},   
 
-    {'icon': iconImage, 'title': 'Söylenmez', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/78711df132a4068b4f92349a5df5e9fe.mp3'}
+        {'icon': iconImage, 'title': '♫ Kıskanç ', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/3385bac9204be1db11e42a110aeba2da.mp3'},     
 
+        {'icon': iconImage, 'title': ' ♫ Özür Diliyorum Senden', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/cfee5bbe4bd4ff0bfa2f587b32d3b140.mp3'},     
+
+        {'icon': iconImage, 'title': ' ♫ Kafayı Yemişsin', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/145bea5216fff31e8d24bcf06f129b45.mp3 '},    
+
+        {'icon': iconImage, 'title': ' ♫ Gurbet', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/dcebf961dedefdccac0a4f9f9fcab5dc.mp3  '},   
+
+        {'icon': iconImage, 'title': '♫ Kader ', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/1c09e9bbf8d2a78d0b597f2811a007eb.mp3  '},   
+
+        {'icon': iconImage, 'title': ' ♫ Kimsesiz Bıraktın', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/73159665fcd467f1b6203087d6573dbb.mp3 '},    
+
+        {'icon': iconImage, 'title': '♫ Şeytan Çıktı ', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/69b55848f52ea9d29fae488cfaa421c7.mp3  '},   
+
+        {'icon': iconImage, 'title': '  ♫ Yol Ver Dağlar', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/804b104c2d43342593adf2bd5db33b69.mp3 '},   
+
+        {'icon': iconImage, 'title': '♫ Bana Ne Diyeyim ', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/490fd34a61cc7a3e2ad24dbe8f540081.mp3 '},    
+
+        {'icon': iconImage, 'title': ' ♫ Karamuk Dalını Eğmiş', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/cd979361364be3d7587f4f1c625d7457.mp3 '},    
+
+        {'icon': iconImage, 'title': '♫ Yudum Yudum ', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/e71fdaa2fdff4170f7eceaffb4089ac9.mp3   '},  
+
+        {'icon': iconImage, 'title': ' ♫ Nargilemin Dumanı', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/285754ba2ffdf73d0d96ad3975467ce3.mp3  '}  
    
 
 

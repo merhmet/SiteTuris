@@ -567,20 +567,37 @@ var iconImage = 'http://funkyimg.com/i/21pX5.png';
 
 AP.init({
   playList: [
-    {'icon': iconImage, 'title': 'Hayat Vefasız', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/cdec5915859da109570be39395d360ac.mp3'},
-   
-    {'icon': iconImage, 'title': 'Gülemedim', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/220ad5421e1549cf8aa1cfa689545ab5.mp3'},
-
-    {'icon': iconImage, 'title': 'Yaban Gülü', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/yaban-gulu-GEml0wxr7D-0.mp3'},
-
-    {'icon': iconImage, 'title': 'Naze', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/3b8c131976a3e6a4490bd5ac750f3859.mp3'},
-
-    {'icon': iconImage, 'title': 'Gönül Çalamazsan Aşkın Sazını', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/e0932b87b4a3ed4d47086f5a9a462d8d.mp3'},
-
-    {'icon': iconImage, 'title': 'Uzun Hava', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/uzun-hava-VMCwOoph0r-0.mp3'},
-
-    {'icon': iconImage, 'title': 'Söylenmez', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/78711df132a4068b4f92349a5df5e9fe.mp3'}
-
+    {'icon': iconImage, 'title': ' ♫ İlk Göz Ağrım', 'file': '    https://cdn.muzikmp3indir.com/mp3_files/1e8cb2d4bf713b207968d45e4e9a09c3.mp3'},         
+    
+    {'icon': iconImage, 'title': ' ♫ Güle Güle ', 'file': ' https://cdn.muzikmp3indir.com/mp3_files/f7dddbd4617033926334930c075e78ee.mp3'},        
+    
+    {'icon': iconImage, 'title': ' ♫ Bir Sevdaya Düştüm  ', 'file': ' https://cdn.muzikmp3indir.com/mp3_files/fe0088cf683d78eaecfcb03a2a9ae0c2.mp3'},       
+    
+    {'icon': iconImage, 'title': '♫ Delikanlı Gibi ', 'file': ' https://cdn.muzikmp3indir.com/mp3_files/726c26b0646ebb504f28946bb34fb223.mp3'},         
+    
+    {'icon': iconImage, 'title': ' ♫ Yasemen ', 'file': ' https://cdn.muzikmp3indir.com/mp3_files/460123034325ace7921c161c470edd99.mp3 '},       
+    
+    {'icon': iconImage, 'title': ' ♫ Dert Sokağı', 'file': ' https://cdn.muzikmp3indir.com/mp3_files/92f1c9a2dd0eb9e902deba10ce019ed9.mp3 '},        
+    
+    {'icon': iconImage, 'title': ' ♫ Vurmazmıyım', 'file': ' https://cdn.muzikmp3indir.com/mp3_files/4e380028ce07c751ebcb30d32ad3fc8d.mp3 '},        
+    
+    {'icon': iconImage, 'title': ' ♫ Dağlar ', 'file': ' https://cdn.muzikmp3indir.com/mp3_files/fadaa18a98d7bf462c6173db725b4b50.mp3 '},       
+    
+    {'icon': iconImage, 'title': ' ♫ Yalan mı ', 'file': ' https://cdn.muzikmp3indir.com/mp3_files/f5c00690b6f398381132d1a9dd169bcb.mp3 '},       
+    
+    {'icon': iconImage, 'title': ' ♫ Vır Vır Etme ', 'file': ' https://cdn.muzikmp3indir.com/mp3_files/3adfe21dd0b838f7cbabf159a55faaa9.mp3 '},       
+    
+    {'icon': iconImage, 'title': '  ♫ Kölen Olayım', 'file': ' https://cdn.muzikmp3indir.com/mp3_files/875a2a1464ccccfb92dc29b0f551e3f5.mp3'},        
+    
+    {'icon': iconImage, 'title': '  ♫ Evlenmem ', 'file': ' https://cdn.muzikmp3indir.com/mp3_files/005e67c0cb79b5819e4f352326ec7756.mp3'},        
+    
+    {'icon': iconImage, 'title': ' ♫ Elimde Değil', 'file': ' https://cdn.muzikmp3indir.com/mp3_files/e5c6000a0d13e0e6f2d9d09e60fe5cec.mp3'},         
+    
+    {'icon': iconImage, 'title': '♫ Kimsesizler Ülkesi  ', 'file': ' https://cdn.muzikmp3indir.com/mp3_files/9ff631e415ca0943190a37a2e69744b1.mp3 '},        
+    
+    {'icon': iconImage, 'title': ' ♫ Hani Söz Vermiştin ', 'file': ' https://cdn.muzikmp3indir.com/mp3_files/df418ce96f631c90b340a283f1edf815.mp3'},        
+    
+    {'icon': iconImage, 'title': ' ♫ Gönül', 'file': ' https://cdn.muzikmp3indir.com/mp3_files/29f72f326dbd1f2c86b49943cbe9fd15.mp3 '}   
    
 
 

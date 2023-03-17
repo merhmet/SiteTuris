@@ -567,19 +567,35 @@ var iconImage = 'http://funkyimg.com/i/21pX5.png';
 
 AP.init({
   playList: [
-    {'icon': iconImage, 'title': 'Hayat Vefasız', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/cdec5915859da109570be39395d360ac.mp3'},
-   
-    {'icon': iconImage, 'title': 'Gülemedim', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/220ad5421e1549cf8aa1cfa689545ab5.mp3'},
+    {'icon': iconImage, 'title': '♫ Bırakmadı Sevdan Beni ', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/7567da067ac26bfc94dde443939d6d9c.mp3 '},
 
-    {'icon': iconImage, 'title': 'Yaban Gülü', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/yaban-gulu-GEml0wxr7D-0.mp3'},
+    {'icon': iconImage, 'title': '♫ Birini Bulamadım ', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/f894692d54acb66b4ef565c5ff1a4f5a.mp3'}, 
 
-    {'icon': iconImage, 'title': 'Naze', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/3b8c131976a3e6a4490bd5ac750f3859.mp3'},
+    {'icon': iconImage, 'title': '♫ Çözdümde Geldim ', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/a5dba20a02a3d8ebc59acfe66c18b847.mp3'}, 
 
-    {'icon': iconImage, 'title': 'Gönül Çalamazsan Aşkın Sazını', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/e0932b87b4a3ed4d47086f5a9a462d8d.mp3'},
+    {'icon': iconImage, 'title': ' ♫ Gitme Nazlım', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/8f580b85ab0102f96da29768c6d78a92.mp3 '},
 
-    {'icon': iconImage, 'title': 'Uzun Hava', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/uzun-hava-VMCwOoph0r-0.mp3'},
+    {'icon': iconImage, 'title': '♫ Tek Başıma ', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/d01868ffd2fc9d8166b8585be617472a.mp3 '},
 
-    {'icon': iconImage, 'title': 'Söylenmez', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/78711df132a4068b4f92349a5df5e9fe.mp3'}
+    {'icon': iconImage, 'title': ' ♫ Kim Bilir Şimdi Nerdesin', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/5b68565ef2cad7b4237a074d9a5a9979.mp3 '},
+
+    {'icon': iconImage, 'title': '♫ Viran Ettiler ', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/1b67373f093b76aa604faa3e3d95da5c.mp3 '},
+
+    {'icon': iconImage, 'title': '♫ Yoruldum ', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/40acd401829ac42fb6ab4bb49eaf3b4d.mp3 '},
+
+    {'icon': iconImage, 'title': ' ♫ Bırak Onada Dokunma', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/c84c75e92fb8e31b68d812a29ef4f57b.mp3 '},
+
+    {'icon': iconImage, 'title': ' ♫ feat Eda Doğanay-Sevdama Kurban Olasın', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/a997da4b563e4bec307559a30a165f17.mp3 '},
+
+    {'icon': iconImage, 'title': '  ♫ Bacımsın', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/34d0326cab957b63341279b6b3067c86.mp3'},
+
+    {'icon': iconImage, 'title': '♫ İyi Değil ', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/37dd7a673528b85d978c1084cf98de64.mp3 '},
+
+    {'icon': iconImage, 'title': ' ♫ Gariban', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/12a2f77dcde2c4a3fee917eb4742e6e6.mp3 '},
+
+    {'icon': iconImage, 'title': '♫ Yaramı Deşmeyin ', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/73018b6f231e02a1ecb6279818d347df.mp3 '},
+
+    {'icon': iconImage, 'title': '♫ Ah Çeke Çeke  ', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/dc913730f15920168796bfe4db2fc0f3.mp3 '} 
 
    
 

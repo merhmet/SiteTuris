@@ -567,19 +567,46 @@ var iconImage = 'http://funkyimg.com/i/21pX5.png';
 
 AP.init({
   playList: [
-    {'icon': iconImage, 'title': 'Hayat Vefasız', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/cdec5915859da109570be39395d360ac.mp3'},
-   
-    {'icon': iconImage, 'title': 'Gülemedim', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/220ad5421e1549cf8aa1cfa689545ab5.mp3'},
 
-    {'icon': iconImage, 'title': 'Yaban Gülü', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/yaban-gulu-GEml0wxr7D-0.mp3'},
+       {'icon': iconImage, 'title': ' ♫ Eline Düştüm Minik Yarim', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/7532ebe3d7fe0cc04648fe5cbff269c4.mp3'},       
+    
+       {'icon': iconImage, 'title': ' ♫ Minik Yarim', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/1df068f63a812755a7a15f6db2718a00.mp3 '},      
+    
+       {'icon': iconImage, 'title': ' ♫ Yarim Ayrı Gezme', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/d98233e67dcc512f053b3ef09f068b8e.mp3  '},     
+    
+       {'icon': iconImage, 'title': ' ♫ Sorma Arkadaş ', 'file': ' https://cdn.muzikmp3indir.com/mp3_files/1e09903ee3ea55819687b5bf733e090d.mp3 '},     
+    
+       {'icon': iconImage, 'title': ' ♫ Gardaş', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/1522fed65b177f557b6809685d471a9d.mp3  '},     
+    
+       {'icon': iconImage, 'title': ' ♫ Bir Gün Bana Döneceksin', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/6e02b915e35d86c84aa3528fe1e08d75.mp3 '},      
+    
+       {'icon': iconImage, 'title': '♫ Tövbe ', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/c08686e183e0395f37f3a5b1aecbf181.mp3  '},     
+    
+       {'icon': iconImage, 'title': ' ♫ Abi Dedi ', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/7b137355eb98e61947ce97442f2f2c6d.mp3 '},     
+    
+       {'icon': iconImage, 'title': '♫ İnadıma  ', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/cb3c9f234e56b73c8b267f09e2ee70c8.mp3 '},     
+    
+       {'icon': iconImage, 'title': '♫ Yanıyorum Gençliğime ', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/62807406691b24413420e3839146aa33.mp3'},       
+    
+       {'icon': iconImage, 'title': '♫ Güzeller  ', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/32b8437fd3c544a17309a07939e8e5fd.mp3'},      
 
-    {'icon': iconImage, 'title': 'Naze', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/3b8c131976a3e6a4490bd5ac750f3859.mp3'},
-
-    {'icon': iconImage, 'title': 'Gönül Çalamazsan Aşkın Sazını', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/e0932b87b4a3ed4d47086f5a9a462d8d.mp3'},
-
-    {'icon': iconImage, 'title': 'Uzun Hava', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/uzun-hava-VMCwOoph0r-0.mp3'},
-
-    {'icon': iconImage, 'title': 'Söylenmez', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/78711df132a4068b4f92349a5df5e9fe.mp3'}
+       {'icon': iconImage, 'title': ' ♫ Sevda Dağları Ayrılık mı Var ', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/1b678a6ba78f1ae584753c879471bb34.mp3 '},     
+    
+       {'icon': iconImage, 'title': ' ♫ Sevda Dağları', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/b2e3084c693a9d07a622b2101e9dd627.mp3'},       
+    
+       {'icon': iconImage, 'title': ' ♫ Yara', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/508f19affd18e1740eb13b28355e335f.mp3 '},      
+    
+       {'icon': iconImage, 'title': '♫ Ben Kime Yanam  ', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/c89e7f1a9c7ea40a0d19cbe092b00e7c.mp3'},      
+    
+       {'icon': iconImage, 'title': ' ♫ Çalsam Olmuyor ', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/0d485924ce981bdd0babf85945a4d058.mp3'},      
+    
+       {'icon': iconImage, 'title': ' ♫ İmana Gel ', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/5978b0daa72b3088c923b474489aabb9.mp3'},      
+    
+       {'icon': iconImage, 'title': '♫ Yardan Çektiklerim ', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/8f98a7465c942e426131110efa502e90.mp3'},       
+    
+       {'icon': iconImage, 'title': '♫ Yeter Ki Gel ', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/5108786bd8512206ca28aadc51e781ff.mp3 '},      
+    
+       {'icon': iconImage, 'title': ' ♫ Ağladim ', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/8cd696c2b35b727f4b516a767d448e04.mp3'}  
 
    
 

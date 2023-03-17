@@ -568,29 +568,29 @@ var iconImage = 'http://funkyimg.com/i/21pX5.png';
 AP.init({
   playList: [
 
-    {'icon': iconImage, 'title': ' Mahkumum', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/46b9881f321530deb77a5efa66c3f9c8.mp3 '},
+    {'icon': iconImage, 'title': ' ♫  Mahkumum', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/46b9881f321530deb77a5efa66c3f9c8.mp3 '},
 
-    {'icon': iconImage, 'title': 'Ne Gördüm Ne Yaşadım', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/d3ed83781b341889accac315e5b5a33c.mp3 '}, 
+    {'icon': iconImage, 'title': ' ♫ Ne Gördüm Ne Yaşadım', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/d3ed83781b341889accac315e5b5a33c.mp3 '}, 
 
-    {'icon': iconImage, 'title': 'Sensizlik Ölüm Gibi', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/76558da02d8e924d202089fbcab7f737.mp3'},  
+    {'icon': iconImage, 'title': ' ♫ Sensizlik Ölüm Gibi', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/76558da02d8e924d202089fbcab7f737.mp3'},  
 
-    {'icon': iconImage, 'title': 'Ye Ye Dünyayı', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/c1b59a2fc99914aac06469912f6b2ce4.mp3 '}, 
+    {'icon': iconImage, 'title': ' ♫ Ye Ye Dünyayı', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/c1b59a2fc99914aac06469912f6b2ce4.mp3 '}, 
 
-    {'icon': iconImage, 'title': 'Arsız Gönül', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/452f3f2179e400a1740a3099a9a918cb.mp3 '}, 
+    {'icon': iconImage, 'title': ' ♫ Arsız Gönül', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/452f3f2179e400a1740a3099a9a918cb.mp3 '}, 
 
-    {'icon': iconImage, 'title': 'Gam Yüküm Çiledir', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/c772d481189033a60cf9f53a7b1e1870.mp3 '}, 
+    {'icon': iconImage, 'title': ' ♫ Gam Yüküm Çiledir', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/c772d481189033a60cf9f53a7b1e1870.mp3 '}, 
 
-    {'icon': iconImage, 'title': 'Yakarım Dünyayı', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/1115ccea86cf55f595987e3a95ce966b.mp3 '}, 
+    {'icon': iconImage, 'title': ' ♫ Yakarım Dünyayı', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/1115ccea86cf55f595987e3a95ce966b.mp3 '}, 
 
-    {'icon': iconImage, 'title': 'Gurbet Eller Ne Yaptınız', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/7ea3a71c826d6782ee0c47c0fbfba8fc.mp3'},  
+    {'icon': iconImage, 'title': ' ♫ Gurbet Eller Ne Yaptınız', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/7ea3a71c826d6782ee0c47c0fbfba8fc.mp3'},  
 
-    {'icon': iconImage, 'title': 'Ölecek Bu', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/00bf01bf15fc706b2ba3d4a0b6212ae8.mp3 '}, 
+    {'icon': iconImage, 'title': ' ♫ Ölecek Bu', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/00bf01bf15fc706b2ba3d4a0b6212ae8.mp3 '}, 
 
-    {'icon': iconImage, 'title': 'Arada Bir Sor Halimi', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/d1fdc03d2f80706af7a5d80b342a7a6e.mp3  '},
+    {'icon': iconImage, 'title': ' ♫ Arada Bir Sor Halimi', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/d1fdc03d2f80706af7a5d80b342a7a6e.mp3  '},
 
-    {'icon': iconImage, 'title': 'Bir Mektup Yaz ki', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/fe88eeb037a4692ab5a4babc04578331.mp3 '}, 
+    {'icon': iconImage, 'title': ' ♫ Bir Mektup Yaz ki', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/fe88eeb037a4692ab5a4babc04578331.mp3 '}, 
 
-    {'icon': iconImage, 'title': 'Çok Bekledim', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/24039ecb9d803e44551e79de791bd665.mp3 '}
+    {'icon': iconImage, 'title': ' ♫ Çok Bekledim', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/24039ecb9d803e44551e79de791bd665.mp3 '}
 
 
 
