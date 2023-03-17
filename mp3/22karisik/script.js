@@ -577,6 +577,8 @@ AP.init({
 
     {'icon': iconImage, 'title': '    ♫ Geceler', 'file': '     https://cdn.muzikmp3indir.com/mp3_files/77bc1b9a5077d26ed812bd6c27ec1913.mp3'}, 
 
+    {'icon': iconImage, 'title': '    ♫ Ağrı Dağı', 'file': '   https://cdn.muzikmp3indir.com/mp3_files/07fc01378086ade3b8f5133735a75519.mp3'},
+
     {'icon': iconImage, 'title': '    ♫ Kim Bilir', 'file': '     https://cdn.muzikmp3indir.com/mp3_files/1993efdd5a527dcb929797d267e92116.mp3'},  
 
     {'icon': iconImage, 'title': '    ♫ Angara', 'file': '    https://cdn.muzikmp3indir.com/mp3_files/360bc7e968f629add4abdce57085f146.mp3'}, 
@@ -625,6 +627,14 @@ AP.init({
 
     {'icon': iconImage, 'title': '    ♫ Sen Yanlış Yaptın', 'file': '   https://cdn.muzikmp3indir.com/mp3_files/d254182442cbe9933e987fa191048862.mp3'},
 
+    {'icon': iconImage, 'title': '    ♫ Babama Selam Söyle', 'file': '   https://cdn.muzikmp3indir.com/mp3_files/df1bcfaf6750917284406d3c1da10acc.mp3'},
+
+    {'icon': iconImage, 'title': '    ♫ Hastane Önünde İncir Ağacı', 'file': '   https://cdn.muzikmp3indir.com/mp3_files/d3607bf08c6f69739f2c3f9bc56708fd.mp3'},
+
+    {'icon': iconImage, 'title': '    ♫ Gitme Turnam', 'file': '   https://cdn.muzikmp3indir.com/mp3_files/479935479b950be1f7605d8502307259.mp3'},
+
+    {'icon': iconImage, 'title': '    ♫ Gitme Turnam', 'file': '   https://cdn.muzikmp3indir.com/mp3_files/73a67bdc851e5b18f6d81f6f842f8281.mp3'},
+    {'icon': iconImage, 'title': '    ♫ Haydi Halaya', 'file': '   https://cdn.muzikmp3indir.com/mp3_files/b49832a9567993b34ed9f93d4f8daf59.mp3'},
 
     {'icon': iconImage, 'title': '    ♫ Düşenin Dostu', 'file': 'https://cdn.muzikmp3indir.com/mp3_files/fc7144e086419c03d6c10796dcef2c1e.mp3'}
 
